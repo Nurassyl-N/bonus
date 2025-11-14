@@ -64,6 +64,7 @@ A naive approach would make ~30,000 comparisons; KMP completes in roughly ~10,00
 <img width="716" height="117" alt="image" src="https://github.com/user-attachments/assets/a21a13ba-2786-4791-9a48-8778661c94fe" />
 
 Performance Summary
+
 <img width="206" height="133" alt="image" src="https://github.com/user-attachments/assets/15ffee3d-1f1f-48e4-9ea7-3faa751c4039" />
 
 
