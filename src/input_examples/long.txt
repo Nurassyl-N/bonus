@@ -1,0 +1,6 @@
+TEXT:
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+(repeat 'a' 10000 times) + 'b'
+
+PATTERN:
+aab
