@@ -47,3 +47,6 @@ Across all tests:
 KMP consistently demonstrates deterministic linear performance.
 4. Conclusion
 The KMP algorithm is efficient, lightweight, and reliable for pattern searching in large texts. Its use of the LPS array eliminates redundant comparisons and ensures O(n + m) time complexity. Testing on short, medium, and long strings confirms stable and optimal behavior, making KMP a strong choice for large-scale string processing.
+
+<img width="716" height="117" alt="image" src="https://github.com/user-attachments/assets/a21a13ba-2786-4791-9a48-8778661c94fe" />
+
